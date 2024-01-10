@@ -10,5 +10,3 @@ variable "clusterName" {
   default     = "gitactions-eks"
 }
 
-##
-##
